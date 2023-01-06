@@ -1,10 +1,10 @@
 ### Hi, I'm Alex! 👋
 
 <!--
+Try the StackEdit program if you're unfamiliar with Markdown files.
 **AlexWagnerProfessional/AlexWagnerProfessional** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
-
 - 🔭 I’m currently working on simple games in Python and Java.
 <!--
 - 🌱 I’m currently learning ...
