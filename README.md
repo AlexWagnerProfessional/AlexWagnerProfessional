@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 -->
-- 📫 How to reach me: LinkedIn - https://www.linkedin.com/in/alexryanwagner/
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/alexryanwagner/)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I once hiked to a place with so many butterflies chilling in trees that at first I thought they were brown leaves!
 
