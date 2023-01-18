@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-stats.vercel.app/api?username=AlexWagnerProfessional&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 <!-- Try changing the colors in the URL above if desired! -->
+<!-- Check out Snyk here on Github to see if it could be used for free. It checks for security issues in your code. -->
