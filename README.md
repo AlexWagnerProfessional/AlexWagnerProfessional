@@ -6,7 +6,7 @@ Try the StackEdit program if you're unfamiliar with Markdown files.
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on simple games in Python and Java.
-- 👯 I’m looking to collaborate on a web application, such as in React and Django.
+- 👯 I’m looking to collaborate on a web application, such as in React and/or Django.
 <!--
 - 🌱 I’m currently learning ...
 
